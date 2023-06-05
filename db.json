@@ -11,7 +11,7 @@
             "id": 2,
             "name": "Jaida Essence Sandwich",
             "price": 20.00,
-            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
+            "image": "https://github.com/marianalopesdev/burger-queen-api-mock/blob/main/assets/sandwich.png",
             "type": "Breakfast",
             "dateEntry": "2022-03-05 15:14:10"
           }
@@ -22,7 +22,7 @@
             "id": 6,
             "name": "Detox Juice",
             "price": 15.00,
-            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
+            "image": "https://github.com/marianalopesdev/burger-queen-api-mock/blob/main/assets/juice.png",
             "type": "Breakfast",
             "dateEntry": "2022-03-05 15:14:10"
           }
@@ -33,7 +33,7 @@
             "id": 5,
             "name": "Bob The Coffee",
             "price": 6.00,
-            "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/water.jpg",
+            "image": "https://github.com/marianalopesdev/burger-queen-api-mock/blob/main/assets/coffee.png",
             "type": "Breakfast",
             "dateEntry": "2022-03-05 15:14:10"
           }
@@ -53,7 +53,7 @@
             "id": 7,
             "name": "Kim Chi Salad",
             "price": 35.00,
-            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
+            "image": "https://github.com/marianalopesdev/burger-queen-api-mock/blob/main/assets/salad.png",
             "type": "Diner",
             "dateEntry": "2022-03-05 15:14:10"
           }
@@ -64,7 +64,7 @@
             "id": 3,
             "name": "BenDeLaCreme Pie",
             "price": 18.00,
-            "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/water.jpg",
+            "image": "https://github.com/marianalopesdev/burger-queen-api-mock/blob/main/assets/pie.png",
             "type": "Breakfast",
             "dateEntry": "2022-03-05 15:14:10"
           }
@@ -75,7 +75,7 @@
             "id": 11,
             "name": "Rosé Wine",
             "price": 150.00,
-            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
+            "image": "https://github.com/marianalopesdev/burger-queen-api-mock/blob/main/assets/rose.png",
             "type": "Diner",
             "dateEntry": "2022-03-05 15:14:10"
           }
@@ -96,7 +96,7 @@
             "id": 1,
             "name": "Honey Mahogany Pancakes",
             "price": 25.00,
-            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
+            "image": "https://github.com/marianalopesdev/burger-queen-api-mock/blob/main/assets/pancakes.png",
             "type": "Breakfast",
             "dateEntry": "2022-03-05 15:14:10"
           }
@@ -107,7 +107,7 @@
             "id": 4,
             "name": "Milk",
             "price": 5.00,
-            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
+            "image": "https://github.com/marianalopesdev/burger-queen-api-mock/blob/main/assets/milk.png",
             "type": "Breakfast",
             "dateEntry": "2022-03-05 15:14:10"
           }
@@ -118,7 +118,7 @@
             "id": 9,
             "name": "Monet X Change Burger",
             "price": 30.00,
-            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
+            "image": "https://github.com/marianalopesdev/burger-queen-api-mock/blob/main/assets/burger.png",
             "type": "Diner",
             "dateEntry": "2022-03-05 15:14:10"
           }
@@ -138,7 +138,7 @@
             "id": 8,
             "name": "Victoria's Grilled Porkchop",
             "price": 25.00,
-            "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/water.jpg",
+            "image": "https://github.com/marianalopesdev/burger-queen-api-mock/blob/main/assets/porkchop.png",
             "type": "Diner",
             "dateEntry": "2022-03-05 15:14:10"
           }
@@ -149,7 +149,7 @@
             "id": 10,
             "name": "Silky Nutmeg Ganache Cake",
             "price": 20.00,
-            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
+            "image": "https://github.com/marianalopesdev/burger-queen-api-mock/blob/main/assets/cake.png",
             "type": "Diner",
             "dateEntry": "2022-03-05 15:14:10"
           }
@@ -160,7 +160,7 @@
             "id": 12,
             "name": "Aquaria Water",
             "price": 6.00,
-            "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/water.jpg",
+            "image": "https://github.com/marianalopesdev/burger-queen-api-mock/blob/main/assets/water.png",
             "type": "Diner",
             "dateEntry": "2022-03-05 15:14:10"
           }
@@ -176,7 +176,7 @@
       "id": 1,
       "name": "Honey Mahogany Pancakes",
       "price": 25.00,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
+      "image": "https://github.com/marianalopesdev/burger-queen-api-mock/blob/main/assets/pancakes.png",
       "type": "Breakfast",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -184,7 +184,7 @@
       "id": 2,
       "name": "Jaida Essence Sandwich",
       "price": 20.00,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
+      "image": "https://github.com/marianalopesdev/burger-queen-api-mock/blob/main/assets/sandwich.png",
       "type": "Breakfast",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -192,14 +192,14 @@
       "id": 3,
       "name": "BenDeLaCreme Pie",
       "price": 18.00,
-      "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/water.jpg",
+      "image": "https://github.com/marianalopesdev/burger-queen-api-mock/blob/main/assets/pie.png",
       "type": "Breakfast"
     },
     {
       "id": 4,
       "name": "Milk",
       "price": 5.00,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
+      "image": "https://github.com/marianalopesdev/burger-queen-api-mock/blob/main/assets/milk.png",
       "type": "Breakfast",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -207,14 +207,14 @@
       "id": 5,
       "name": "Bob The Coffee",
       "price": 6.00,
-      "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/water.jpg",
+      "image": "https://github.com/marianalopesdev/burger-queen-api-mock/blob/main/assets/coffee.png",
       "type": "Breakfast"
     },
     {
       "id": 6,
       "name": "Detox Juice",
       "price": 15.00,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
+      "image": "https://github.com/marianalopesdev/burger-queen-api-mock/blob/main/assets/juice.png",
       "type": "Breakfast",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -222,7 +222,7 @@
       "id": 7,
       "name": "Kim Chi Salad",
       "price": 35.00,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
+      "image": "https://github.com/marianalopesdev/burger-queen-api-mock/blob/main/assets/salad.png",
       "type": "Diner",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -230,14 +230,14 @@
       "id": 8,
       "name": "Victoria's Grilled Porkchop",
       "price": 25.00,
-      "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/water.jpg",
+      "image": "https://github.com/marianalopesdev/burger-queen-api-mock/blob/main/assets/porkchop.png",
       "type": "Diner"
     },
     {
       "id": 9,
       "name": "Monet X Change Burger",
       "price": 30.00,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
+      "image": "https://github.com/marianalopesdev/burger-queen-api-mock/blob/main/assets/burger.png",
       "type": "Diner",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -245,7 +245,7 @@
       "id": 10,
       "name": "Silky Nutmeg Ganache Cake",
       "price": 20.00,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
+      "image": "https://github.com/marianalopesdev/burger-queen-api-mock/blob/main/assets/cake.png",
       "type": "Diner",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -253,7 +253,7 @@
       "id": 11,
       "name": "Rosé Wine",
       "price": 150.00,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
+      "image": "https://github.com/marianalopesdev/burger-queen-api-mock/blob/main/assets/rose.png",
       "type": "Diner",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -261,7 +261,7 @@
       "id": 12,
       "name": "Aquaria Water",
       "price": 6.00,
-      "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/water.jpg",
+      "image": "https://github.com/marianalopesdev/burger-queen-api-mock/blob/main/assets/water.png",
       "type": "Diner"
     }
   ],
