@@ -438,49 +438,49 @@
   "users": [
     {
       "email": "anita.borg@systers.xyz",
-      "password": "123456",
+      "password": "$2a$10$VkvaBkhnm4k3KP/yCdhCgu/qtzxe7F00CVkTsAsr5pbfU8rPVZEQW",
       "role": "admin",
       "id": 1
     },
     {
       "email": "grace.hopper@systers.xyz",
-      "password": "123456",
+      "password": "$2a$10$VkvaBkhnm4k3KP/yCdhCgu/qtzxe7F00CVkTsAsr5pbfU8rPVZEQW",
       "role": "admin",
       "id": 2
     },
     {
       "email": "nara.sakamoto@laboratoria.la",
-      "password": "123456",
+      "password": "$2a$10$VkvaBkhnm4k3KP/yCdhCgu/qtzxe7F00CVkTsAsr5pbfU8rPVZEQW",
       "role": "admin",
       "id": 3
     },
     {
       "email": "waiter@bq.com",
-      "password": "123456",
+      "password": "$2a$10$VkvaBkhnm4k3KP/yCdhCgu/qtzxe7F00CVkTsAsr5pbfU8rPVZEQW",
       "role": "waiter",
       "id": 4
     },
     {
       "email": "user@bq.com",
-      "password": "123456",
+      "password": "$2a$10$VkvaBkhnm4k3KP/yCdhCgu/qtzxe7F00CVkTsAsr5pbfU8rPVZEQW",
       "role": "admin",
       "id": 5
     },
     {
       "email": "chef@bq.com",
-      "password": "123456",
+      "password": "$2a$10$VkvaBkhnm4k3KP/yCdhCgu/qtzxe7F00CVkTsAsr5pbfU8rPVZEQW",
       "role": "kitchen",
       "id": 6
     },
     {
       "email": "admin@bq.com",
-      "password": "123456",
+      "password": "$2a$10$VkvaBkhnm4k3KP/yCdhCgu/qtzxe7F00CVkTsAsr5pbfU8rPVZEQW",
       "role": "admin",
       "id": 7
     },
     {
       "email": "administrator@bq.com",
-      "password": "123456",
+      "password": "$2a$10$VkvaBkhnm4k3KP/yCdhCgu/qtzxe7F00CVkTsAsr5pbfU8rPVZEQW",
       "role": "admin",
       "id": 8
     }
