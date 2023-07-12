@@ -456,7 +456,7 @@
     },
     {
       "email": "waiter@bq.com",
-      "password": "$123456",
+      "password": "123456",
       "role": "waiter",
       "id": 4
     },
