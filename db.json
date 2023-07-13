@@ -12,7 +12,7 @@
             "name": "Jaida Essence Sandwich",
             "price": 20.00,
             "image": "https://raw.githubusercontent.com/marianalopesdev/burger-queen-api-mock/main/assets/sandwich.png",
-            "type": "Breakfast",
+            "type": "breakfast",
             "dateEntry": "2022-03-05 15:14:10"
           }
         },
@@ -23,7 +23,7 @@
             "name": "Detox Juice",
             "price": 15.00,
             "image": "https://raw.githubusercontent.com/marianalopesdev/burger-queen-api-mock/main/assets/juice.png",
-            "type": "Breakfast",
+            "type": "breakfast",
             "dateEntry": "2022-03-05 15:14:10"
           }
         },
@@ -34,7 +34,7 @@
             "name": "Bob The Coffee",
             "price": 6.00,
             "image": "https://raw.githubusercontent.com/marianalopesdev/burger-queen-api-mock/main/assets/coffee.png",
-            "type": "Breakfast",
+            "type": "breakfast",
             "dateEntry": "2022-03-05 15:14:10"
           }
         }
@@ -54,7 +54,7 @@
             "name": "Kim Chi Salad",
             "price": 35.00,
             "image": "https://raw.githubusercontent.com/marianalopesdev/burger-queen-api-mock/main/assets/salad.png",
-            "type": "Diner",
+            "type": "diner",
             "dateEntry": "2022-03-05 15:14:10"
           }
         },
@@ -65,7 +65,7 @@
             "name": "BenDeLaCreme Pie",
             "price": 18.00,
             "image": "https://raw.githubusercontent.com/marianalopesdev/burger-queen-api-mock/main/assets/pie.png",
-            "type": "Breakfast",
+            "type": "breakfast",
             "dateEntry": "2022-03-05 15:14:10"
           }
         },
@@ -76,7 +76,7 @@
             "name": "Rosé Wine",
             "price": 150.00,
             "image": "https://raw.githubusercontent.com/marianalopesdev/burger-queen-api-mock/main/assets/rose.png",
-            "type": "Diner",
+            "type": "diner",
             "dateEntry": "2022-03-05 15:14:10"
           }
         }
@@ -96,7 +96,7 @@
             "name": "Honey Mahogany Pancakes",
             "price": 25.00,
             "image": "https://raw.githubusercontent.com/marianalopesdev/burger-queen-api-mock/main/assets/pancakes.png",
-            "type": "Breakfast",
+            "type": "breakfast",
             "dateEntry": "2022-03-05 15:14:10"
           }
         },
@@ -107,7 +107,7 @@
             "name": "Milk",
             "price": 5.00,
             "image": "https://raw.githubusercontent.com/marianalopesdev/burger-queen-api-mock/main/assets/milk.png",
-            "type": "Breakfast",
+            "type": "breakfast",
             "dateEntry": "2022-03-05 15:14:10"
           }
         },
@@ -118,7 +118,7 @@
             "name": "Monet X Change Burger",
             "price": 30.00,
             "image": "https://raw.githubusercontent.com/marianalopesdev/burger-queen-api-mock/main/assets/burger.png",
-            "type": "Diner",
+            "type": "diner",
             "dateEntry": "2022-03-05 15:14:10"
           }
         }
@@ -138,7 +138,7 @@
             "name": "Victoria's Grilled Porkchop",
             "price": 25.00,
             "image": "https://raw.githubusercontent.com/marianalopesdev/burger-queen-git aapi-mock/main/assets/porkchop.png",
-            "type": "Diner",
+            "type": "diner",
             "dateEntry": "2022-03-05 15:14:10"
           }
         },
@@ -149,7 +149,7 @@
             "name": "Silky Nutmeg Ganache Cake",
             "price": 20.00,
             "image": "https://raw.githubusercontent.com/marianalopesdev/burger-queen-api-mock/main/assets/cake.png",
-            "type": "Diner",
+            "type": "diner",
             "dateEntry": "2022-03-05 15:14:10"
           }
         },
@@ -160,7 +160,7 @@
             "name": "Aquaria Water",
             "price": 6.00,
             "image": "https://raw.githubusercontent.com/marianalopesdev/burger-queen-api-mock/main/assets/water.png",
-            "type": "Diner",
+            "type": "diner",
             "dateEntry": "2022-03-05 15:14:10"
           }
         }
@@ -180,7 +180,7 @@
             "name": "Kim Chi Salad",
             "price": 35.00,
             "image": "https://github.com/marianalopesdev/burger-queen-api-mock/blob/main/assets/salad.png",
-            "type": "Diner",
+            "type": "diner",
             "dateEntry": "2022-03-05 15:14:10"
           }
         },
@@ -191,7 +191,7 @@
             "name": "Detox Juice",
             "price": 15.00,
             "image": "https://github.com/marianalopesdev/burger-queen-api-mock/blob/main/assets/juice.png",
-            "type": "Breakfast",
+            "type": "breakfast",
             "dateEntry": "2022-03-05 15:14:10"
           }
         },
@@ -202,7 +202,7 @@
             "name": "Rosé Wine",
             "price": 150.00,
             "image": "https://github.com/marianalopesdev/burger-queen-api-mock/blob/main/assets/rose.png",
-            "type": "Diner",
+            "type": "diner",
             "dateEntry": "2022-03-05 15:14:10"
           }
         }
@@ -222,7 +222,7 @@
             "name": "Honey Mahogany Pancakes",
             "price": 25.00,
             "image": "https://github.com/marianalopesdev/burger-queen-api-mock/blob/main/assets/pancakes.png",
-            "type": "Breakfast",
+            "type": "breakfast",
             "dateEntry": "2022-03-05 15:14:10"
           }
         },
@@ -233,7 +233,7 @@
             "name": "BenDeLaCreme Pie",
             "price": 18.00,
             "image": "https://github.com/marianalopesdev/burger-queen-api-mock/blob/main/assets/pie.png",
-            "type": "Breakfast",
+            "type": "breakfast",
             "dateEntry": "2022-03-05 15:14:10"
           }
         },
@@ -244,7 +244,7 @@
             "name": "Aquaria Water",
             "price": 6.00,
             "image": "https://github.com/marianalopesdev/burger-queen-api-mock/blob/main/assets/water.png",
-            "type": "Diner",
+            "type": "diner",
             "dateEntry": "2022-03-05 15:14:10"
           }
         }
@@ -264,7 +264,7 @@
             "name": "Kim Chi Salad",
             "price": 35.00,
             "image": "https://github.com/marianalopesdev/burger-queen-api-mock/blob/main/assets/salad.png",
-            "type": "Diner",
+            "type": "diner",
             "dateEntry": "2022-03-05 15:14:10"
           }
         },
@@ -275,7 +275,7 @@
             "name": "Detox Juice",
             "price": 15.00,
             "image": "https://github.com/marianalopesdev/burger-queen-api-mock/blob/main/assets/juice.png",
-            "type": "Breakfast",
+            "type": "breakfast",
             "dateEntry": "2022-03-05 15:14:10"
           }
         },
@@ -286,7 +286,7 @@
             "name": "Rosé Wine",
             "price": 150.00,
             "image": "https://github.com/marianalopesdev/burger-queen-api-mock/blob/main/assets/rose.png",
-            "type": "Diner",
+            "type": "diner",
             "dateEntry": "2022-03-05 15:14:10"
           }
         }
@@ -306,7 +306,7 @@
             "name": "Honey Mahogany Pancakes",
             "price": 25.00,
             "image": "https://github.com/marianalopesdev/burger-queen-api-mock/blob/main/assets/pancakes.png",
-            "type": "Breakfast",
+            "type": "breakfast",
             "dateEntry": "2022-03-05 15:14:10"
           }
         },
@@ -317,7 +317,7 @@
             "name": "BenDeLaCreme Pie",
             "price": 18.00,
             "image": "https://github.com/marianalopesdev/burger-queen-api-mock/blob/main/assets/pie.png",
-            "type": "Breakfast",
+            "type": "breakfast",
             "dateEntry": "2022-03-05 15:14:10"
           }
         },
@@ -328,7 +328,7 @@
             "name": "Aquaria Water",
             "price": 6.00,
             "image": "https://github.com/marianalopesdev/burger-queen-api-mock/blob/main/assets/water.png",
-            "type": "Diner",
+            "type": "diner",
             "dateEntry": "2022-03-05 15:14:10"
           }
         }
@@ -343,7 +343,7 @@
       "name": "Honey Mahogany Pancakes",
       "price": 25.00,
       "image": "https://raw.githubusercontent.com/marianalopesdev/burger-queen-api-mock/main/assets/pancakes.png",
-      "type": "Breakfast",
+      "type": "breakfast",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
@@ -351,7 +351,7 @@
       "name": "Jaida Essence Sandwich",
       "price": 20.00,
       "image": "https://raw.githubusercontent.com/marianalopesdev/burger-queen-api-mock/main/assets/sandwich.png",
-      "type": "Breakfast",
+      "type": "breakfast",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
@@ -359,7 +359,7 @@
       "name": "BenDeLaCreme Pie",
       "price": 18.00,
       "image": "https://github.com/marianalopesdev/burger-queen-api-mock/blob/main/assets/pie.png",
-      "type": "Breakfast",
+      "type": "breakfast",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
@@ -367,7 +367,7 @@
       "name": "Milk",
       "price": 5.00,
       "image": "https://raw.githubusercontent.com/marianalopesdev/burger-queen-api-mock/main/assets/milk.png",
-      "type": "Breakfast",
+      "type": "breakfast",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
@@ -375,7 +375,7 @@
       "name": "Bob The Coffee",
       "price": 6.00,
       "image": "https://github.com/marianalopesdev/burger-queen-api-mock/blob/main/assets/coffee.png",
-      "type": "Breakfast",
+      "type": "breakfast",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
@@ -383,7 +383,7 @@
       "name": "Detox Juice",
       "price": 15.00,
       "image": "https://raw.githubusercontent.com/marianalopesdev/burger-queen-api-mock/main/assets/juice.png",
-      "type": "Breakfast",
+      "type": "breakfast",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
@@ -391,7 +391,7 @@
       "name": "Kim Chi Salad",
       "price": 35.00,
       "image": "https://raw.githubusercontent.com/marianalopesdev/burger-queen-api-mock/main/assets/salad.png",
-      "type": "Diner",
+      "type": "diner",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
@@ -399,7 +399,7 @@
       "name": "Victoria's Grilled Porkchop",
       "price": 25.00,
       "image": "https://github.com/marianalopesdev/burger-queen-api-mock/blob/main/assets/porkchop.png",
-      "type": "Diner",
+      "type": "diner",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
@@ -407,7 +407,7 @@
       "name": "Monet X Change Burger",
       "price": 30.00,
       "image": "https://raw.githubusercontent.com/marianalopesdev/burger-queen-api-mock/main/assets/burger.png",
-      "type": "Diner",
+      "type": "diner",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
@@ -415,7 +415,7 @@
       "name": "Silky Nutmeg Ganache Cake",
       "price": 20.00,
       "image": "https://raw.githubusercontent.com/marianalopesdev/burger-queen-api-mock/main/assets/cake.png",
-      "type": "Diner",
+      "type": "diner",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
@@ -423,7 +423,7 @@
       "name": "Rosé Wine",
       "price": 150.00,
       "image": "https://raw.githubusercontent.com/marianalopesdev/burger-queen-api-mock/main/assets/rose.png",
-      "type": "Diner",
+      "type": "diner",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
@@ -431,7 +431,7 @@
       "name": "Aquaria Water",
       "price": 6.00,
       "image": "https://github.com/marianalopesdev/burger-queen-api-mock/blob/main/assets/water.png",
-      "type": "Diner",
+      "type": "diner",
       "dateEntry": "2022-03-05 15:14:10"
     }
   ],
